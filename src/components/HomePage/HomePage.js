@@ -1,7 +1,9 @@
 
-const HomePage = () => {
+const HomePage = ({children}) => {
     return(
-        <h1>this is homepage</h1>
+        <>
+            {children}
+        </>
     );
 };
 
