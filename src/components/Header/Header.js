@@ -7,6 +7,8 @@ const Header = () => {
        <div className={"Header"}>
            {/*<Nav/>*/}
            <Oval/>
+           <Oval/>
+           <Oval/>
            <Background/>
        </div>
     )

@@ -1,11 +1,11 @@
 import React from "react";
 import "./Card.css"
-const Card = () => {
+const Card = ({children}) => {
 
     return(
         <div className="BG">
             <div className="content">
-                This is content
+                {children}
             </div>
         </div>
     )
