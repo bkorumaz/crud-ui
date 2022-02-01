@@ -7,3 +7,11 @@
 
     background: linear-gradient(340.03deg, #8DDAD5 8.42%, #00CDAC 91.45%);
 }
+
+.Background {
+    position: absolute;
+    left: -4.03%;
+    right: -0.28%;
+    top: -0.86%;
+    bottom: 54.61%;
+}
